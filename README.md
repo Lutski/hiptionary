@@ -23,21 +23,34 @@ Or install it yourself as:
 ## Usage
 
 To display a new hipster word, just run
+
     $ hiptionary -w
+
 or
+
     $ hiptionary --words
 
 
+
+
 To display a hipster word count, just run
+
     $ hiptionary -c
+
 or
+
     $ hiptionary --count
 
 
+
 To display help, just run
+
     $ hiptionary -h
+
 or
+
     $ hiptionary --help
+
 
 ## Development
 
