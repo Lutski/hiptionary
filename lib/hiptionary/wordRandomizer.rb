@@ -1,4 +1,4 @@
-require_relative 'words'
+require "./words"
 
 module Hiptionary
   module WordRandomizer
