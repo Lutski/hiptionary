@@ -10,6 +10,10 @@ module Hiptionary
       puts WordRandomizer.get_word
     end
 
+    opts.on('-c', '--count', 'Displays hipster word count') do
+      puts WordRandomizer.get_word_count
+    end
+
     opts.on('-h', '--help', 'Displays help') do
       puts opts
       exit
