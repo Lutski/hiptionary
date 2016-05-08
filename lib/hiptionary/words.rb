@@ -170,7 +170,7 @@ module Hiptionary
       {
         name: "FOGO",
         meaning: "It means 'Fear Of Going Out', opposite of FOMO (Fear of Missing Out).",
-        example: "I'm have a big FOGO"
+        example: "I have a big FOGO"
       },
       {
         name: "Poptical Illusion",
